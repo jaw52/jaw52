@@ -1,20 +1,19 @@
-### Hi there 👋
+## Hi there 👋, I'm 糠帅傅 (JAW).
 
-<!--
-**jaw52/jaw52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome! the**![](https://count.getloli.com/get/@:jaw52?theme=gelbooru)**visitor.**
 
-Here are some ideas to get you started:
+### summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TypeScript](https://img.shields.io/badge/Typescript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
 
-清风月下池，明月纸上书。
 
-![img](https://p3-bcy-sign.bcyimg.com/banciyuan/82a697bf047f4b6c93494b42571da0b5~tplv-banciyuan-w650.image?x-expires=1694313788&x-signature=qrBH%2BGhHIUz4iSYz9e2kcjDetzQ%3D)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaw52&hide=stars,issues,commits&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### hobby
+
+<b>I like painting. This is my painting</b>
+
+<center>
+  <img src="./asset/bg.png" height="300px">
+</center>
