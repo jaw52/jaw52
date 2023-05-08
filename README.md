@@ -7,7 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaw52&hide=stars,issues,commits&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaw52&hide=stars,issues,commits&hide_rank=true)](https://github.com/pulls?q=is%3Apr+author%3A%40me+archived%3Afalse+sort%3Aupdated-desc+is%3Amerged)
 
 
 ### hobby
