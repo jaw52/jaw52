@@ -14,6 +14,6 @@
 
 <b>I like painting. This is my painting</b>
 
-<center>
+<p align="center">
   <img src="./asset/bg.png" height="300px">
-</center>
+</p>
